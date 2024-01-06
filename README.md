@@ -29,7 +29,7 @@ This project automates the process of responding to unread emails in Gmail 📬.
 
 ## Usage 📋
 
-After running the application, it will periodically check your Gmail inbox for unread emails. When it finds any, it will send an auto-reply and apply the label `"open-in-app-backend"` to the email, then move it out of the inbox.
+After running the application, it will periodically check your Gmail inbox for unread emails. When it finds any, it will send an auto-reply and apply the label of your choice to the email, then move it out of the inbox.
 
 Thank-You
 
